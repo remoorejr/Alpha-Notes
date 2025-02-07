@@ -7,9 +7,10 @@ A Progressive Web Application Component built with Alpha Anywhere for note-takin
 - On device database with realtime data syncronization 
 - Online and offline data sync
 - PWA supports installation on mobile devices 
+- AlphaNotes_Auth_Quill component includes the Quill.js rich text editor
 
 ## Installation
-Download the AlphaNotes_Auth component and load it into the Alpha Anywhere IDE.
+Download the AlphaNotes_Auth or the enhanced AlphaNotes_Auth_with_Quill component and load it into the Alpha Anywhere IDE.
 
 Add the offline.html file to your project and modify as required. This page is displayed if the device is offline and the requested file is not in the static or dynamic cache.
 
