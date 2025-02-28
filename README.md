@@ -20,7 +20,6 @@ Make sure to checkout the video tutorials.
 [![Watch video #1](https://img.youtube.com/vi/BciIq1x2PwU/0.jpg)](https://www.youtube.com/watch?v=BciIq1x2PwU)
 
 ## Video Tutorial #2, Adding the Quill.js rich text editor
-https://youtu.be/xyXXlVakAvs?si=uJCjnQZ64xhkzsca
 [![Watch video #2](https://img.youtube.com/vi/xyXXlVakAvs/0.jpg)](https://www.youtube.com/watch?v=xyXXlVakAvs)
 
 ## Links
