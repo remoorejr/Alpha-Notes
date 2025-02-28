@@ -18,6 +18,7 @@ Make sure to checkout the video tutorial.
 
 ## Video Tutorial
 [YouTube](https://youtu.be/BciIq1x2PwU)
+[YouTube: Adds the Quill.js rich text editor](https://youtu.be/xyXXlVakAvs?si=aGrrE41EqWuoQ_uX)
 
 ## Links
 [Alpha Software](https://alphasoftware.com)
