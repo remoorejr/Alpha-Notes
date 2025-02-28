@@ -18,11 +18,11 @@ Make sure to checkout the video tutorials.
 
 ## Videos 
 Tutorial #1, Building the Alpha Notes PWA with Alpha Anywhere
-[![Watch video #1](https://img.youtube.com/vi/BciIq1x2PwU/0.jpg)](https://www.youtube.com/watch?v=BciIq1x2PwU)  </br>
-
+[![Watch video #1](https://img.youtube.com/vi/BciIq1x2PwU/0.jpg)](https://www.youtube.com/watch?v=BciIq1x2PwU)
+< br / >
 Tutorial #2, Adding the Quill.js rich text editor
-[![Watch video #2](https://img.youtube.com/vi/xyXXlVakAvs/0.jpg)](https://www.youtube.com/watch?v=xyXXlVakAvs)  </br>
-
+[![Watch video #2](https://img.youtube.com/vi/xyXXlVakAvs/0.jpg)](https://www.youtube.com/watch?v=xyXXlVakAvs)
+  
 ## Links
 [Alpha Software](https://alphasoftware.com)
 
