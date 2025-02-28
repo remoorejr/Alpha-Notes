@@ -14,11 +14,13 @@ Download the AlphaNotes_Auth or the enhanced AlphaNotes_Auth_with_Quill componen
 
 Add the offline.html file to your project and modify as required. This page is displayed if the device is offline and the requested file is not in the static or dynamic cache.
 
-Make sure to checkout the video tutorial.
+Make sure to checkout the video tutorials.
 
-## Video Tutorial
-[YouTube](https://youtu.be/BciIq1x2PwU)
-[YouTube: Adds the Quill.js rich text editor](https://youtu.be/xyXXlVakAvs?si=aGrrE41EqWuoQ_uX)
+## Video Tutorial #1, Building the Alpha Notes PWA with Alpha Anywhere
+<Video src="https://www.youtube.com/embed/BciIq1x2PwU" />
+
+## Video Tutorial #2, Adding the Quill.js rich text editor
+<Video src="https://www.youtube.com/embed/aGrrE41EqWuoQ_uX" />
 
 ## Links
 [Alpha Software](https://alphasoftware.com)
